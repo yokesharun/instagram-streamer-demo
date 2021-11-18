@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yokesharun/react-instagram-streamer/static/css/main.d9bc00dc.chunk.css",
+    "main.js": "/yokesharun/react-instagram-streamer/static/js/main.8b5a33b5.chunk.js",
+    "main.js.map": "/yokesharun/react-instagram-streamer/static/js/main.8b5a33b5.chunk.js.map",
+    "runtime-main.js": "/yokesharun/react-instagram-streamer/static/js/runtime-main.6a83d4fc.js",
+    "runtime-main.js.map": "/yokesharun/react-instagram-streamer/static/js/runtime-main.6a83d4fc.js.map",
+    "static/js/2.2384564b.chunk.js": "/yokesharun/react-instagram-streamer/static/js/2.2384564b.chunk.js",
+    "static/js/2.2384564b.chunk.js.map": "/yokesharun/react-instagram-streamer/static/js/2.2384564b.chunk.js.map",
+    "index.html": "/yokesharun/react-instagram-streamer/index.html",
+    "static/css/main.d9bc00dc.chunk.css.map": "/yokesharun/react-instagram-streamer/static/css/main.d9bc00dc.chunk.css.map",
+    "static/js/2.2384564b.chunk.js.LICENSE.txt": "/yokesharun/react-instagram-streamer/static/js/2.2384564b.chunk.js.LICENSE.txt",
+    "static/media/info.png": "/yokesharun/react-instagram-streamer/static/media/info.d0bffc7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a83d4fc.js",
+    "static/js/2.2384564b.chunk.js",
+    "static/css/main.d9bc00dc.chunk.css",
+    "static/js/main.8b5a33b5.chunk.js"
+  ]
+}
