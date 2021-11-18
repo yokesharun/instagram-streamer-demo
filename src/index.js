@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import InstagramStreamer from './package/src/InstagramStreamer';
+import {InstagramStreamer} from 'react-instagram-streamer';
 import './index.css';
 
 ReactDOM.render(
