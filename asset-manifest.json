@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/instagram-streamer-demo/static/css/main.d9bc00dc.chunk.css",
-    "main.js": "/instagram-streamer-demo/static/js/main.f4b632be.chunk.js",
-    "main.js.map": "/instagram-streamer-demo/static/js/main.f4b632be.chunk.js.map",
+    "main.js": "/instagram-streamer-demo/static/js/main.ae63a7be.chunk.js",
+    "main.js.map": "/instagram-streamer-demo/static/js/main.ae63a7be.chunk.js.map",
     "runtime-main.js": "/instagram-streamer-demo/static/js/runtime-main.1038d8ab.js",
     "runtime-main.js.map": "/instagram-streamer-demo/static/js/runtime-main.1038d8ab.js.map",
-    "static/js/2.2384564b.chunk.js": "/instagram-streamer-demo/static/js/2.2384564b.chunk.js",
-    "static/js/2.2384564b.chunk.js.map": "/instagram-streamer-demo/static/js/2.2384564b.chunk.js.map",
+    "static/js/2.0f735cbc.chunk.js": "/instagram-streamer-demo/static/js/2.0f735cbc.chunk.js",
+    "static/js/2.0f735cbc.chunk.js.map": "/instagram-streamer-demo/static/js/2.0f735cbc.chunk.js.map",
     "index.html": "/instagram-streamer-demo/index.html",
     "static/css/main.d9bc00dc.chunk.css.map": "/instagram-streamer-demo/static/css/main.d9bc00dc.chunk.css.map",
-    "static/js/2.2384564b.chunk.js.LICENSE.txt": "/instagram-streamer-demo/static/js/2.2384564b.chunk.js.LICENSE.txt",
+    "static/js/2.0f735cbc.chunk.js.LICENSE.txt": "/instagram-streamer-demo/static/js/2.0f735cbc.chunk.js.LICENSE.txt",
     "static/media/info.png": "/instagram-streamer-demo/static/media/info.d0bffc7f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1038d8ab.js",
-    "static/js/2.2384564b.chunk.js",
+    "static/js/2.0f735cbc.chunk.js",
     "static/css/main.d9bc00dc.chunk.css",
-    "static/js/main.f4b632be.chunk.js"
+    "static/js/main.ae63a7be.chunk.js"
   ]
 }
