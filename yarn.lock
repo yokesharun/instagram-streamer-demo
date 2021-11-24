@@ -5306,11 +5306,6 @@ fs.realpath@^1.0.0:
   resolved "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   integrity sha1-FQStJSMVjKpA20onh8sBQRmU6k8=
 
-fscreen@^1.0.2:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/fscreen/-/fscreen-1.2.0.tgz#1a8c88e06bc16a07b473ad96196fb06d6657f59e"
-  integrity sha512-hlq4+BU0hlPmwsFjwGGzZ+OZ9N/wq9Ljg/sq3pX+2CD7hrJsX9tJgWWK/wiNTFM212CLHWhicOoqwXyZGGetJg==
-
 fsevents@^1.2.7:
   version "1.2.13"
   resolved "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz"
@@ -7127,7 +7122,7 @@ lodash.assign@^4.2.0:
 
 lodash.debounce@^4.0.8:
   version "4.0.8"
-  resolved "https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz"
+  resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
 
 lodash.difference@^4.0.2:
@@ -7758,7 +7753,7 @@ oauth-sign@~0.9.0:
 
 object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
   version "4.1.1"
-  resolved "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz"
+  resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
 
 object-copy@^0.1.0:
@@ -8190,7 +8185,7 @@ performance-now@^0.2.0:
 
 performance-now@^2.1.0:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/performance-now/-/performance-now-2.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
 
 picocolors@^1.0.0:
@@ -9263,26 +9258,18 @@ react-error-overlay@^6.0.9:
   resolved "https://registry.npmjs.org/react-error-overlay/-/react-error-overlay-6.0.9.tgz"
   integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
 
-react-full-screen@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-full-screen/-/react-full-screen-1.1.0.tgz#696c586da25652ed10d88046f8dc0b6620f4ef96"
-  integrity sha512-ivL/HrcfHhEUJWmgoiDKP7Xfy127LGz9x3VnwVxljJ0ky1D1YqJmXjhxnuEhfqT3yociJy/HCk9/yyJ3HEAjaw==
-  dependencies:
-    fscreen "^1.0.2"
-
-react-instagram-streamer@^1.0.1:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-instagram-streamer/-/react-instagram-streamer-1.0.2.tgz#b78413a9988c93af7748d37bd154763e10c6aa41"
-  integrity sha512-hAwiFo5nKldUbPFekBEMOFT93j7T9l2V8v/7brcjujwvODHfCwr9xK8eUMr7UCgGZi3+/z1BBUBEIM0kJSktVQ==
+react-instagram-streamer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-instagram-streamer/-/react-instagram-streamer-1.0.3.tgz#d8ca4ee52b23aff7766ccf42fc036bee5f4877ef"
+  integrity sha512-OHslhaZ/6jw3nUHElOJbZp7GWh/OqmJ+lnKEr0zng4nDFw3Xy02ZICs43VUVbPt1hWfv7D2l1Lc5i0zgr8QAUw==
   dependencies:
     "@babel/runtime" "^7.16.3"
-    react-full-screen "^1.1.0"
     react-lodash "^0.1.2"
     react-stonecutter "^0.3.10"
 
 react-is@^16.8.1:
   version "16.13.1"
-  resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
+  resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
 react-is@^17.0.1:
