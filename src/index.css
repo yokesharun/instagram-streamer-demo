@@ -5,18 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #003744;
-  color: #f6fe91;
+  background-color: #e2eff1;
+  color: #555273;
 }
 
 html, body {margin: 0; padding: 0; height: 100%; overflow: auto}
 
 .container{
-  margin: 10% 36%;
+  margin: 4% 24%;
 }
 
 .header{
   text-align: center;
   margin: 0;
-  margin-top: 7%;
+  margin-top: 4%;
 }
