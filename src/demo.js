@@ -3,8 +3,6 @@ import { InstagramStreamer } from 'react-instagram-streamer';
 import './index.css';
 
 const Demo = () => {
-
-
 	return (
 		<>
 			<h1 className="header">React Instagram Streamer Demo</h1>
@@ -14,7 +12,6 @@ const Demo = () => {
 			</div>
 		</>
 	);
-
 }
 
 export default Demo;
