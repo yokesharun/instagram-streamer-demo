@@ -1,5 +1,5 @@
 {
-  "name": "react-instagram-streamer",
+  "name": "instagram-streamer-demo",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://yokesharun.github.io/instagram-streamer-demo/",
@@ -10,8 +10,7 @@
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-image-size": "^1.0.4",
-    "react-instagram-streamer": "../react-instagram-streamer",
+    "react-instagram-streamer": "^1.0.5",
     "react-scripts": "4.0.3",
     "web-vitals": "^2.1.2"
   },
