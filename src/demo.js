@@ -1,17 +1,36 @@
-import React from 'react';
-import { InstagramStreamer } from 'react-instagram-streamer';
-import './index.css';
+import React, { useState, useRef } from "react";
+import { InstagramStreamer } from "react-instagram-streamer";
+import "./index.css";
 
 const Demo = () => {
-	return (
-		<>
-			<h1 className="header">React Instagram Streamer Demo</h1>
-			<p className="info">Wait for 10 seconds to see the magic :)</p>
-			<div className="container">
-				<InstagramStreamer accessToken='IGQVJXcDMybmg5eTBiS2dpdjFyYkRMRENlREg0UzVTdjNaU01OSW9BX1Rzby10a3BST3RTbExBemtGcEhjWEVnS0xDQUQwa3NhdF9hbkdncXdVMXBZAMVFSWkRXUVNkYy1HdG9zMFE3VWVVNlJNMFlhZAwZDZD' />
-			</div>
-		</>
-	);
-}
+  const [token, setToken] = useState("");
+  const inputRef = useRef();
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const value = inputRef.current.value;
+    value && setToken(value);
+  };
+
+  return (
+    <>
+      <h1 className="header">React Instagram Streamer Demo</h1>
+      <p className="info">Wait for 10 seconds to see the magic :)</p>
+      <div className="token-text">
+        <input
+          type="text"
+          placeholder="Please enter your token"
+          ref={inputRef}
+        />
+        <button onClick={(e) => handleSubmit(e)}>Fetch Instagram images</button>
+      </div>
+      {token && (
+        <div className="container">
+          <InstagramStreamer accessToken={token} />
+        </div>
+      )}
+    </>
+  );
+};
 
 export default Demo;
